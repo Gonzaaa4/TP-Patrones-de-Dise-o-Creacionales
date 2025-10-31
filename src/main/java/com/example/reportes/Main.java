@@ -1,6 +1,6 @@
 package com.example.reportes;
 
-// Asegúrate de importar las clases de los otros paquetes
+
 import com.example.reportes.builder.Orientacion;
 import com.example.reportes.builder.Reporte;
 import com.example.reportes.factory.IRenderizadorReporte;

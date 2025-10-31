@@ -35,7 +35,7 @@ classDiagram
 
     %% --- 2. Requerimiento 2: Patrón Builder ---
     
-    %% --- CORRECCIÓN AQUÍ ---
+    
     %% Se usa un ID 'ReporteBuilder' para la clase que se mostrará como 'Reporte.Builder'
     class ReporteBuilder["Reporte.Builder"] {
         <<Builder>>
